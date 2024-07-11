@@ -1,11 +1,11 @@
 # Methods of Advanced Data Engineering Project
 
-This template project provides some structure for your open data project in the MADE module at FAU. This repository contains (a) a data science project that is developed over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
+This repository is created for my open data project in the MADE module at FAU. It contains (a) a data science project that is developed over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
 
 ## Data science project overview
 
 My data engineering project has the following topic: 
-## The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis.
+### *** The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis.***
 This project focuses on analyzing the relationship between Healthy Life Years (HLY) and Greenhouse Gas Emissions (GHG) across European Union countries, utilizing data sourced from Eurostat. The aim is to explore how environmental factors, specifically emissions, correlate with public health outcomes represented by healthy life expectancy at birth.
 
 ### ETL Pipeline
