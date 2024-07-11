@@ -14,9 +14,7 @@ This project focuses on analyzing the relationship between Healthy Life Years (H
 
 **Extract:** The data extraction involves pulling structured datasets directly from Eurostat. These datasets provide detailed annual records of HLY and GHG emissions per capita for EU countries. Data extraction is performed using Python's pandas library, performing direct downloading and reading of CSV files.
 
-**Transform:** The transformation stage includes:
-- Filtering out unnecessary columns and rows that are not relevant to the analysis, such as specific gender data which is not used.
-- Handling missing values, particularly ensuring that data for all countries covers the same time period (2011-2022). This involves adding missing years for countries like Iceland and interpolating values to maintain consistency across the dataset.
+**Transform:** In the transformation stage, the data is refined by removing irrelevant columns and rows, such as specific gender data not needed for analysis. To ensure completeness across the dataset for all countries from 2011 to 2022, missing years are added using linear interpolation to maintain data consistency.
 
 **Load:** The final stage involves loading the cleaned and transformed data into a structured SQLite database. This step ensures the data is stored in a format that is easy to access and analyze for future research or operational use.
 
