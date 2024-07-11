@@ -2,17 +2,18 @@
 
 ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex1) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex2) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex3) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex4) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex5)
 
-# Methods of Advanced Data Engineering Project: The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis
+# Methods of Advanced Data Engineering Project
+## The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis
 
 This template project provides some structure for your open data project in the MADE module at FAU. This repository contains (a) a data science project that is developed over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
 
-## Project overview
+## Dta science project overview
 
 My data engineering project has the following topic: **The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis**. This project focuses on analyzing the relationship between Healthy Life Years (HLY) and Greenhouse Gas Emissions (GHG) across European Union countries, utilizing data sourced from Eurostat. The aim is to explore how environmental factors, specifically emissions, correlate with public health outcomes represented by healthy life expectancy at birth.
 
 ### ETL Pipeline
 
-**Extract:** The data extraction involves pulling structured datasets directly from Eurostat. These datasets provide detailed annual records of HLY and GHG emissions per capita for EU countries. Data extraction is performed using Python's `pandas` library, performing direct downloading and reading of CSV files.
+**Extract:** The data extraction involves pulling structured datasets directly from Eurostat. These datasets provide detailed annual records of HLY and GHG emissions per capita for EU countries. Data extraction is performed using Python's pandas library, performing direct downloading and reading of CSV files.
 
 **Transform:** The transformation stage includes:
 - Filtering out unnecessary columns and rows that are not relevant to the analysis, such as specific gender data which is not used.
@@ -22,9 +23,7 @@ My data engineering project has the following topic: **The link between health s
 
 ### Analysis approach
 
-The project employs statistical methods to understand the dynamics between HLY and GHG emissions. It includes:
-- Visualizing data trends and disparities between countries.
-- Applying correlation analysis to quantitatively assess the relationship between public health metrics and environmental impacts.
+The project employs statistical methods to understand the dynamics between HLY and GHG emissions. It includes (a) visualizing data trends and disparities between countries and (b) applying correlation analysis to quantitatively assess the relationship between public health metrics and environmental impacts.
 
 ### Tools and libraries
 
