@@ -1,15 +1,12 @@
-# Exercise Badges
-
-![](https://byob.yarr.is/segalanastasiia/made-template/score_ex1) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex2) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex3) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex4) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex5)
-
 # Methods of Advanced Data Engineering Project
-## The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis
 
 This template project provides some structure for your open data project in the MADE module at FAU. This repository contains (a) a data science project that is developed over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
 
-## Dta science project overview
+## Data science project overview
 
-My data engineering project has the following topic: **The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis**. This project focuses on analyzing the relationship between Healthy Life Years (HLY) and Greenhouse Gas Emissions (GHG) across European Union countries, utilizing data sourced from Eurostat. The aim is to explore how environmental factors, specifically emissions, correlate with public health outcomes represented by healthy life expectancy at birth.
+My data engineering project has the following topic: 
+## The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis.
+This project focuses on analyzing the relationship between Healthy Life Years (HLY) and Greenhouse Gas Emissions (GHG) across European Union countries, utilizing data sourced from Eurostat. The aim is to explore how environmental factors, specifically emissions, correlate with public health outcomes represented by healthy life expectancy at birth.
 
 ### ETL Pipeline
 
@@ -37,3 +34,7 @@ All project work submissions are placed in the `project` folder.
 
 ## Exercises
 During the semester I also completed exercises using [Jayvee](https://github.com/jvalue/jayvee). The submissions are places in the `exercises` folder.
+
+### Exercise Badges
+
+![](https://byob.yarr.is/segalanastasiia/made-template/score_ex1) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex2) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex3) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex4) ![](https://byob.yarr.is/segalanastasiia/made-template/score_ex5)
