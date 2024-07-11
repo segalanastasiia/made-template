@@ -5,7 +5,9 @@ This repository is created for my open data project in the MADE module at FAU. I
 ## Data science project overview
 
 My data engineering project has the following topic: 
+
 *** The link between health status and net greenhouse gas emissions in the EU: a cross-country analysis ***
+
 This project focuses on analyzing the relationship between Healthy Life Years (HLY) and Greenhouse Gas Emissions (GHG) across European Union countries, utilizing data sourced from Eurostat. The aim is to explore how environmental factors, specifically emissions, correlate with public health outcomes represented by healthy life expectancy at birth.
 
 ### ETL Pipeline
