@@ -1,6 +1,6 @@
 # Methods of Advanced Data Engineering Project
 
-This repository is created for my open data project in the MADE module at FAU. It contains (a) a data science project that is developed over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
+This repository is created for my open data science project. It contains (a) a data science project that is developed within the module Methods of Advanced Data Engineering at FAU over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
 
 ## Data science project overview
 
